@@ -1,7 +1,7 @@
 ---
 # Page settings
 layout: homepage
-keywords: graph learning
+keywords: marius graphs learning
 
 # Hero section
 title: Graph Learning At Scale
