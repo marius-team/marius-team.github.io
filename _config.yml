@@ -13,8 +13,8 @@ doks:
         content:
             logo:
                 text:
-                image: true
-            copyright: Copyright &copy; 2021. University of Wisconsin-Madison 
+                image:
+            copyright:
 
 # SASS settings
 sass:
