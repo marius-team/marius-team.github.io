@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Large-scale Graph Learning in a Single Machine
+# Large-scale Graph Learning in a Single Machine
 
 We are developing Marius to make the use of **deep learning models over billion-scale graphs easier, faster, and cheaper.** Marius focuses on the key bottleneck of applying deep learning over over large-scale graph data: data movement. Marius addresses this bottleneck with a **novel data flow architecture** that maximizes resource utilization of the entire memory hierarchy (including disk, CPU, and GPU memory). 
 
