@@ -4,13 +4,15 @@ title: Team
 permalink: /team/
 ---
 
-### Team
-* [Jason Mohoney](http://pages.cs.wisc.edu/~mohoney/)
-* [Roger Waleffe](http://www.rogerwaleffe.com)
-* [Prof. Theodoros Rekatsinas](https://thodrek.github.io), Project Lead
-* [Prof. Shivaram Venkataraman](https://shivaram.org), Project Lead
+### Students
+* [Jason Mohoney](http://pages.cs.wisc.edu/~mohoney/), PhD Student
+* [Roger Waleffe](http://www.rogerwaleffe.com), PhD Student
+* Anders Carlsson, Undergraduate Student
+* Andy Xie, Undergraduate Student
 
-### Other Members and Collaborators
-* Anders Carlsson, Student Developer
-* Andy Xie, Student Developer
-* [Prof. Shanan Peters](http://strata.geology.wisc.edu), Scientific Collaborator
+### Project Leads
+* [Prof. Theo Rekatsinas](https://thodrek.github.io)
+* [Prof. Shivaram Venkataraman](https://shivaram.org)
+
+### Other Contributors
+* [Prof. Shanan Peters](http://strata.geology.wisc.edu)
