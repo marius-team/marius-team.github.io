@@ -5,8 +5,8 @@ permalink: /team/
 ---
 
 ### Team
-* [Jason Mohoney](http://pages.cs.wisc.edu/~mohoney/), Student Lead
-* [Roger Waleffe](http://www.rogerwaleffe.com), Student Lead
+* [Jason Mohoney](http://pages.cs.wisc.edu/~mohoney/)
+* [Roger Waleffe](http://www.rogerwaleffe.com)
 * [Prof. Theodoros Rekatsinas](https://thodrek.github.io), Project Lead
 * [Prof. Shivaram Venkataraman](https://shivaram.org), Project Lead
 
