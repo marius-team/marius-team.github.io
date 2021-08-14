@@ -11,8 +11,8 @@ permalink: /team/
 * Andy Xie, Undergraduate Student
 
 ### Project Leads
-* [Prof. Theo Rekatsinas](https://thodrek.github.io)
-* [Prof. Shivaram Venkataraman](https://shivaram.org)
+* [Theo Rekatsinas](https://thodrek.github.io)
+* [Shivaram Venkataraman](https://shivaram.org)
 
 ### Other Contributors
-* [Prof. Shanan Peters](http://strata.geology.wisc.edu)
+* [Shanan Peters](http://strata.geology.wisc.edu)
