@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 
 ---
 
 # Large-scale Graph Learning in a Single Machine
