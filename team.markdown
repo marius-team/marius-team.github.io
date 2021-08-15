@@ -14,5 +14,5 @@ permalink: /team/
 * [Theo Rekatsinas](https://thodrek.github.io)
 * [Shivaram Venkataraman](https://shivaram.org)
 
-### Other Contributors
+### Collaborators and Contributors
 * [Shanan Peters](http://strata.geology.wisc.edu)
