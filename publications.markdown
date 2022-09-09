@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Papers
-* [Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine](https://arxiv.org/abs/2202.02365) Roger Waleffe et al. 2022
+* [MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks](https://arxiv.org/abs/2202.02365) Roger Waleffe et al. EuroSys 2023
 * [Demo of Marius: A System for Large-scale Graph Embeddings](http://vldb.org/pvldb/vol14/p2759-mohoney.pdf) Anze Xie et al. VLDB demo 21
 * [Marius: Learning Massive Graph Embeddings on a Single Machine](https://arxiv.org/pdf/2101.08358.pdf) Jason Mohoney et al. OSDI 21
 
